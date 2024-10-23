@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Gitty-Suas
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Linux
-- - 💞️ I’m looking to collaborate on linux Interfaces
+- 🌱 I’m currently learning
+- 
 - 📫 How to reach me jz9hddai@issa.addy.io
-- 😄 Pronouns: him
+- 😄 
 - ⚡ Fun fact: ...
 
 <!---
